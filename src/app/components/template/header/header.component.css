@@ -1,0 +1,20 @@
+.header{
+    background-color: #031CA6;
+    display: flex;
+    align-items: center;
+}
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+.header  .logo{
+    max-height: 40px;
+}
+.header .tilte-group{
+    
+    padding-left: 55px;
+}
+.header .tilte-group{
+    padding-right: 40px;
+}
